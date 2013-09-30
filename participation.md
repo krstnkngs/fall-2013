@@ -35,6 +35,8 @@ announce your struggle *early*, consider the options, try to solve the
 problem, and ask for help if the options you've tried don't work.
 
 
+
+
 Participating in the Open Source Community
 ------------------------------------------
 
